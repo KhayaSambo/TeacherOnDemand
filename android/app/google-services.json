@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641897745334",
+    "project_id": "testing-82b86",
+    "storage_bucket": "testing-82b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641897745334:android:1c346b91a7a791fcc90f17",
+        "android_client_info": {
+          "package_name": "com.example.TeacherOnDemand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641897745334-ovfrbe6da0phhc9vkdmsn66sa639vknk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtbni0pDcFDsqfx9m6UZgR75wW_d0REo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641897745334-ovfrbe6da0phhc9vkdmsn66sa639vknk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
